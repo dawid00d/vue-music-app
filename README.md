@@ -1,7 +1,7 @@
 # Simple Music App based on itunes RSS and Lookup API drivers
 
 Tech stack:
-Vue 3/Composition API, Pinia, Tawilwind, TypeScript, Cypress, Vite
+Vue 3/Composition API, Pinia, Tailwind, TypeScript, Cypress, Vite
 
 ## Recommended IDE Setup
 
