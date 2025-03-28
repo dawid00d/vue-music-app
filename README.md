@@ -1,6 +1,9 @@
-# /
+# Simple Music App based on itunes RSS and Lookup API drivers
 
 This template should help get you started developing with Vue 3 in Vite.
+
+Tech stack:
+Vue 3/Composition API, Pinia, Tawilwind, TypeScript, Cypress, 
 
 ## Recommended IDE Setup
 
